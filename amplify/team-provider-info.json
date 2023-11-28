@@ -17,6 +17,9 @@
       },
       "api": {
         "amplifyfullstackv5": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
